@@ -1,0 +1,15 @@
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\bin\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.exe
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\bin\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.deps.json
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\bin\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.runtimeconfig.json
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\bin\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.dll
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\bin\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.pdb
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.csproj.AssemblyReference.cache
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.AssemblyInfoInputs.cache
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.AssemblyInfo.cs
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.csproj.CoreCompileInputs.cache
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.dll
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\refint\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.dll
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.pdb
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.genruntimeconfig.cache
+C:\Users\rafa\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro\obj\Debug\net7.0\ref\Trabalho-Pr-tico-1-Algoritmo-do-Banqueiro.dll
