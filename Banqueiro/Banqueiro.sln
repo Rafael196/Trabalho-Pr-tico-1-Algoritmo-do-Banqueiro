@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banqueiro", "Banqueiro.csproj", "{3634D400-3EC6-ACA3-5042-D09B9BCDEF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3634D400-3EC6-ACA3-5042-D09B9BCDEF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3634D400-3EC6-ACA3-5042-D09B9BCDEF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3634D400-3EC6-ACA3-5042-D09B9BCDEF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3634D400-3EC6-ACA3-5042-D09B9BCDEF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BC9FC1-1AD6-4B5D-958A-A8E647A86D6E}
+	EndGlobalSection
+EndGlobal
