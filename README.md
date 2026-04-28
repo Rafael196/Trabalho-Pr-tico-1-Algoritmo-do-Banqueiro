@@ -1,4 +1,13 @@
 # Algoritmo do Banqueiro - Trabalho Prático
+---
+
+## 🤖 Uso de Inteligência Artificial
+
+Este trabalho contou com o apoio de ferramentas de Inteligência Artificial para auxiliar no entendimento do problema, organização das ideias e estruturação do código.
+
+O uso da IA foi feito como suporte ao aprendizado, sendo o conteúdo revisado e compreendido pelos autores antes da entrega.
+
+---
 
 ## 📌 Descrição
 
